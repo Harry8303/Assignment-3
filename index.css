@@ -1,0 +1,52 @@
+div {
+    position: relative;
+    left:9%;
+    width: 600px;
+    padding: 40px;
+    margin: 150px;
+    border: 2px solid rgb(235, 235, 229);
+    outline: #fa2146 solid 10px;
+    border-radius: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 400%;
+    color: rgb(235, 45, 45);
+    font-family: Georgia;
+    text-decoration: underline;
+}
+h2{
+    font-size: 30px;
+    color: #fa143a;
+    text-decoration:underline  ;
+    text-shadow: 2px 2px #8c937d;
+}
+
+#body1 {
+    background-image: url("codioful-formerly-gradienta-n2XqPm7Bqhk-unsplash.jpg");
+    background-size: cover;
+}
+#add {
+    font-size: 20px;
+    width: 50%;
+}
+#button{
+    border-radius: 15px;
+    background: #e0f2c9;
+    padding: 20px; 
+    width: 100px;
+    height: 50px;  
+    font-weight: 800;
+}
+#a1{
+    color: #fa143a;
+    font-size: 20px;
+}
+#a2{
+    color: #d6223d;
+    font-size: 25px;
+}
+#body2{
+    background-color: aqua;
+}
